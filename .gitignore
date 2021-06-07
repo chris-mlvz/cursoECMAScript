@@ -1,4 +1,5 @@
 package.json
+images
 
 .vscode/*
 !.vscode/settings.json
